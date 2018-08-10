@@ -4,8 +4,9 @@
 ### JQuery
 https://raw.githubusercontent.com/hougii/myjs/master/node_modules/jquery/dist/jquery.min.js
 
-### JQuery UI
-
+### JQuery UI Dist
+jQuery UI - v1.12.1 - 2016-09-14
+https://raw.githubusercontent.com/hougii/myjs/master/node_modules/jquery-ui-dist/jquery-ui.min.js
 
 ### SyntaxHighlighter
 <script type="text/javascript" src="js/shCore.js"></script> 
@@ -20,3 +21,7 @@ https://raw.githubusercontent.com/hougii/myjs/master/node_modules/syntaxhighligh
 css
 https://raw.githubusercontent.com/hougii/myjs/master/node_modules/syntaxhighlighter/css/shCore.css
 https://raw.githubusercontent.com/hougii/myjs/master/node_modules/syntaxhighlighter/css/shThemeRDark.css
+
+
+### recentposts100
+https://raw.githubusercontent.com/hougii/myjs/master/js/recentposts100.js
